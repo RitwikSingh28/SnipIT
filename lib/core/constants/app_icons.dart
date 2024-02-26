@@ -1,0 +1,29 @@
+class AppIcons {
+  static const String app_icon = "assets/icons/app_icon.svg";
+  static const String apple_icon = "assets/icons/apple.svg";
+  static const String facebook_icon = "assets/icons/facebook.svg";
+  static const String google_icon = "assets/icons/google.svg";
+  static const String email_icon = "assets/icons/email.svg";
+  static const String twitter_icon = "assets/icons/twitter.svg";
+  static const String all_category_icon = "assets/icons/all.png";
+  static const String artanddesign_category_icon = "assets/icons/artanddesign.png";
+  static const String finance_category_icon = "assets/icons/finance.png";
+  static const String food_category_icon = "assets/icons/food.png";
+  static const String healthcare_category_icon = "assets/icons/healthcare.png";
+  static const String music_category_icon = "assets/icons/music.png";
+  static const String news_category_icon = "assets/icons/news.png";
+  static const String nutrition_category_icon = "assets/icons/nutrition.png";
+  static const String politics_category_icon = "assets/icons/politics.png";
+  static const String sports_category_icon = "assets/icons/sports.png";
+  static const String tech_category_icon = "assets/icons/tech.png";
+  static const String travel_category_icon = "assets/icons/travel.png";
+  static const String editSquare = "assets/icons/edit_square.svg";
+  static const String activity = "assets/icons/activity.svg";
+  static const String bag = "assets/icons/bag.svg";
+  static const String globe = "assets/icons/globe.svg";
+  static const String location = "assets/icons/location.svg";
+  static const String lock = "assets/icons/lock.svg";
+  static const String unlock = "assets/icons/unlock.svg";
+  static const String person = "assets/icons/person.svg";
+  static const String shield = "assets/icons/shield.svg";
+}
